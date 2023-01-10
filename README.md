@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/patrickbrito95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickbrito95&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbrito95&layout=compact&langs_count=10&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patrickbrito95&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickbrito95&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
